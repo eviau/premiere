@@ -1,0 +1,40 @@
+body {
+
+background-color: #27187E;
+color: #FFD6C0;
+font-family: monospace;
+max-width: 850px;
+font-size: 24px;
+margin: 5%;
+}
+
+a {
+color: #6096BA;
+text-decoration: none;
+text-shadow: 1px 1px 0 #FFD6C0;
+font-weight: 800;
+}
+
+a.entry_title{
+    font-size:38px;}
+
+br{
+margin: 5%;}
+
+
+h1{
+font-size: 80px;}
+
+
+p{
+font-family: sans;}
+
+.entry{
+    background-color:#150D45;
+    margin: 15% 5%;
+    padding: 15px;
+    border-radius: 5px;
+    }
+    
+time{
+    font-style: italic;}
